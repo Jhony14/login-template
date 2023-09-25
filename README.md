@@ -12,6 +12,8 @@
 
 ## Install
 
+Update config. js file
+
 ```sh
 npm install
 ```
